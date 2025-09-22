@@ -1,6 +1,5 @@
 # Machine Learning Model
-##
- Explainable Machine Learning on the Abalone Dataset
+## Explainable Machine Learning on the Abalone Dataset
 
 This repository explores **Explainable AI (XAI)** techniques—**SHAP** and **LIME**—to interpret
 Logistic Regression and Random Forest models trained on the [UCI Abalone dataset](https://doi.org/10.24432/C55C7W).
