@@ -23,3 +23,11 @@ The project applies **Non-negative Matrix Factorisation (NMF)** to TF-IDF repres
   top-term bar charts, and topic word clouds.
 
 ---
+
+## 📊 Key Results
+- Optimal Topics: 8
+- Best Coherence: 0.7684
+- Clear semantic separation with minimal topic overlap.
+
+---
+
