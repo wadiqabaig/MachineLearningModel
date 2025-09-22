@@ -6,7 +6,7 @@ The project applies **Non-negative Matrix Factorisation (NMF)** to TF-IDF repres
 ---
 
 ## 📑 Contents
-- [Report_NLP-NMF.pdf](NLP-NMF (Twittes)/Report_NLP-NMF.pdf) – Full report with introduction, methodology, results, visualisations, and references.
+- `Report_NLP-NMF.pdf` – Full report with introduction, methodology, results, visualisations, and references.
 - `src/` – Python scripts for preprocessing, model training, evaluation, and visualisation.
 - `figures/` – Generated plots (intertopic map, hierarchical clustering, heatmaps, word clouds).
 
