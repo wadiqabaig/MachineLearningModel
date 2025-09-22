@@ -1,7 +1,6 @@
 # Machine Learning Model Collection
 
-This repository hosts two independent **Machine Learning** projects developed for
-academic coursework and personal exploration.  
+This repository hosts two independent **Machine Learning** projects developed for academic coursework and personal exploration.  
 Each folder contains its own dataset, source code, and report.
 
 ---
@@ -9,8 +8,7 @@ Each folder contains its own dataset, source code, and report.
 ## 📂 Project 1 – LR & RF with XAI (Abalone Age)
 
 **Goal:**  
-Predict the age category of abalone shells using **Logistic Regression** and **Random Forest**,  
-Then explain model decisions with **Explainable AI (XAI)** techniques.
+Predict the age category of abalone shells using **Logistic Regression** and **Random Forest**, then explain model decisions with **Explainable AI (XAI)** techniques.
 
 **Highlights**
 - Dataset: [UCI Abalone](https://doi.org/10.24432/C55C7W)
@@ -23,8 +21,7 @@ Then explain model decisions with **Explainable AI (XAI)** techniques.
 ## 📂 Project 2 – NLP with NMF (Twitter Topic Modelling)
 
 **Goal:**  
-Uncover latent discussion topics from *Squid Game* Twitter data using  
-**Non-negative Matrix Factorisation (NMF)** on TF-IDF vectors.
+Uncover latent discussion topics from *Squid Game* Twitter data using **Non-negative Matrix Factorisation (NMF)** on TF-IDF vectors.
 
 **Highlights**
 - Dataset: [Squid Game Netflix Twitter Data](https://www.kaggle.com/datasets/deepcontractor/squid-game-netflix-twitter-data)
