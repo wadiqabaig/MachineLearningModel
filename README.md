@@ -12,8 +12,7 @@ cybersecurity, and software engineering.
 - `literature_review.pdf` – Complete report with introduction, methods, experimental results, and references.
 - `src/` – Python scripts for preprocessing, training, and explainability analysis.
 - `figures/` – Generated plots (SHAP summary, LIME beeswarm, etc.).
-- `results/` – Accuracy and feature-importance metrics.
-
+  
 ---
 
 ## ✨ Key Highlights
